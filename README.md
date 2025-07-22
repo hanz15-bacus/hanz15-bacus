@@ -61,11 +61,7 @@
 
 ---
 
-## 📫 Contact Me
 
-- 📧 Email: hanzbacus@example.com  
-- 🌐 Portfolio: [hanzbacus.dev](https://your-portfolio-link.com)
-- 💼 LinkedIn: [linkedin.com/in/hanzbacus](https://linkedin.com/in/hanzbacus)
 
 ---
 
