@@ -1,3 +1,6 @@
+<div align="center">
+
+
 # Hi there, I'm Hanz! 👋
 
 ![SpongeBob GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
