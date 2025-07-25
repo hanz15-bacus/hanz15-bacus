@@ -3,7 +3,7 @@
 
 # Hi there, I'm Hanz! 👋
 
-![SpongeBob GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+![SpongeBob GIF](https://i.pinimg.com/originals/4a/5d/4c/4a5d4c1d0596927e4eaf592f978e078d.gif)
 
 > *HELU!*
 
