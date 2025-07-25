@@ -60,9 +60,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanz15-bacus&layout=compact&theme=tokyonight)
 
 ---
-
-
-
----
-
-![Profile views](https://komarev.com/ghpvc/?username=hanz15-bacus&color=blueviolet)
