@@ -56,6 +56,10 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
+## 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=hanz15-bacus&theme=tokyonight&column=7&margin-w=15&margin-h=15)
+
 
 ## 📊 GitHub Stats
 
