@@ -60,7 +60,7 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=hanz15-bacus&theme=tokyonight&column=7&margin-w=15&margin-h=15)
 
-
+---
 ## 📊 GitHub Stats
 
 ![Hanz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hanz15-bacus&show_icons=true&theme=tokyonight)
