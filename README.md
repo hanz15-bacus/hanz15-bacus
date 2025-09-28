@@ -57,8 +57,6 @@
 
 ---
 ## 📊 GitHub Stats
-
-![Hanz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hanz15-bacus&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=hanz15-bacus&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanz15-bacus&layout=compact&theme=tokyonight)
 
