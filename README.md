@@ -7,7 +7,7 @@
 
 > *HELU!*
 
-🌟 **Computer Science Student @ Cebu Institure of Technoology - University**
+**Computer Science Student @ Cebu Institure of Technoology - University**
 
 ---
 
