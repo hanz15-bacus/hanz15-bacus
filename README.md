@@ -10,6 +10,7 @@
 
 ---
 
+![GitHub Streak](https://streak-stats.demolab.com?user=haabacus&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hanz15-bacus&theme=tokyonight&hide_border=true)
 
