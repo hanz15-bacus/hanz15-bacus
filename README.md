@@ -5,6 +5,9 @@
 ---
 
 ## 📊 GitHub Stats
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanz15-bacus&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hanz15-bacus&theme=tokyonight&hide_border=true)
 
 </div>
